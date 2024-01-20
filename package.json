@@ -1,0 +1,29 @@
+{
+   "name": "plca",
+   "version": "1.0.0",
+   "description": "anime",
+   "main": "index.js",
+   "scripts": {
+      "build-dev": "npx canvas-sketch-cli sketch.js --new --open"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DevArtist254/Learn-animation.git"
+   },
+   "keywords": [
+      "live",
+      "anime",
+      "with",
+      "code"
+   ],
+   "author": "Devartist",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/DevArtist254/Learn-animation/issues"
+   },
+   "homepage": "https://github.com/DevArtist254/Learn-animation#readme",
+   "dependencies": {
+      "canvas-sketch": "^0.7.7",
+      "canvas-sketch-cli": "^1.11.21"
+   }
+}
